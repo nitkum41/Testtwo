@@ -1,1 +1,0 @@
-print("added test22 folder in data two directory")
